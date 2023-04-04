@@ -5,3 +5,10 @@
 #+DESCRIPTION: solution to hackerrank problems
 #+KEYWORDS: hackerrank, python, problem solving
 #+LANGUAGE: en
+
+| Problem                 | Solution                                           |
+|-------------------------+----------------------------------------------------|
+| [[https://www.hackerrank.com/challenges/grading/problem][Grading Students]]        | [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.c][C]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.cpp][C++]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.dart][Dart]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.java][Java]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.js][JavaScript]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.py][Python]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.ts][TypeScript]] |
+| [[https://www.hackerrank.com/challenges/ctci-bubble-sort/problem][Bubble Sort]]             | [[https://github.com/mubareksd/hackerrank/blob/main/bubble-sort/bubble-sort.py][Python]]                                             |
+| [[https://www.hackerrank.com/challenges/insertionsort1/problem][Insertion Sort - Part 1]] | [[https://github.com/mubareksd/hackerrank/blob/main/insertion-sort/insertion-sort.py][Python]]                                             |
+| [[https://www.hackerrank.com/challenges/countingsort1/problem][Counting Sort 1]]         | [[https://github.com/mubareksd/hackerrank/blob/main/counting-sort/counting-sort.py][Python]]                                             |
